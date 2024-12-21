@@ -266,7 +266,5 @@ def context_location():
     retriever = vectorstore.as_retriever(search_kwargs={"k": 2})
     return retriever
 
-if __name__ == "__main__":
-    # ret = context_gene_codes()
-    ret = context_location()
-    aa = ret.invoke(" Python code of p-Median")
+# if __name__ == "__main__":
+#     ret = context_gene_codes()
