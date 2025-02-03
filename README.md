@@ -1,4 +1,6 @@
-﻿# DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints (ICLR2025)
+﻿# DRoC: Vehicle Routing Problem Solver with Large Language Model
+
+Official implementation for paper "Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints (ICLR2025)"
 
 This repository contains an implementation of a Vehicle Routing Problem solver that leverages Large Language Models (LLMs) to generate and refine solution code. The system supports multiple solving methods and can work with different optimization solvers.
 
