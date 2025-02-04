@@ -43,7 +43,7 @@ def setup_environment(args: argparse.Namespace) -> None:
         os.makedirs(args.output_dir)
 
     # You can add your API key setup here if needed
-    os.environ["ANTHROPIC_API_KEY"] = "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"
+    os.environ["ANTHROPIC_API_KEY"] = "your-key-here"
 
     # os.environ["OPENAI_API_KEY"] = "your-key-here"
 
