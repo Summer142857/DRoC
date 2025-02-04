@@ -12,7 +12,6 @@ This repository contains an implementation of a Vehicle Routing Problem solver t
 - Flexible LLM integration (currently supports):
   - Claude models (default: claude-3-5-sonnet-20241022)
   - GPT models
-  - Groq LLaMA models
 - Automated code generation and refinement
 - Retrieval-augmented generation (RAG)+Self-debug
 
